@@ -28,4 +28,4 @@
 
 
 **Tasks**
-[] Indicate different type of log messages (commander, logger, ...) on graph with different colors, maybe even hover over vertical line for log message?
+- [ ] Indicate different type of log messages (commander, logger, ...) on graph with different colors, maybe even hover over vertical line for log message?
